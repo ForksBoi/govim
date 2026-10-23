@@ -6,7 +6,7 @@ Just A Fork of LavyVim....
 Clone this configuration directly into your Neovim directory using your terminal:
 
 ```bash
-git clone [https://github.com/forksboi/govim](https://github.com/forksboi/govim) ~/.config/nvim
+git clone https://github.com/forksboi/govim ~/.config/nvim
 ```
 
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
